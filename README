@@ -1,3 +1,39 @@
+OVERVIEW: 
 Scripts for Matlab to modify some legend properties.
-The scripts should be self explaining.
-they are able to resize a legend, remove / resizes the lines shown in the legend.
+These scripts are some useful tools to change in a 
+simple way the size of the legend as in (resizeleg.m),
+or to remove or resize the lines shown in the legend
+entries (onlymarkersinleg, resizelinesleg.m).
+
+USAGE:
+The scripts usage is described in the files.
+
+MAIN ADVANTAGES:
+Matlab is a very powerful tool, but it has some 
+annoying features which are not implemented directly.
+
+resizeleg permits e.g. to shring the legend vertically,
+squeezing the text closer together vertically and using 
+less space horizontally.
+In combination the other two scripts permit to shift the
+text spacing in the legend, reducing the size used by 
+the symbols in the legend (lines, markers, markers+lines)
+
+LICENSE:
+	
+  This program is free software; you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation; either version 2 of the License, or
+  (at your option) any later version.
+ 
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+ 
+  You should have received a copy of the GNU General Public License
+  along with this program; if not, write to the Free Software
+  Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
+ 
+  Copyright (C) Daniel Soraruf, 2013-01-24 00:44
+	 
