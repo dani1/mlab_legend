@@ -1,9 +1,16 @@
+******************************
+	MATLAB LEGEND FILES
+******************************
+
 OVERVIEW: 
-Scripts for Matlab to modify some legend properties.
+Scripts for MATLAB to modify some legend properties.
 These scripts are some useful tools to change in a 
 simple way the size of the legend as in (resizeleg.m),
 or to remove or resize the lines shown in the legend
 entries (onlymarkersinleg, resizelinesleg.m).
+
+INSTALLATION:
+Put the files in a Matlab path -> see 'help addpath' in Matlab.
 
 USAGE:
 The scripts usage is described in the files.
